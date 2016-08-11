@@ -1,0 +1,25 @@
+{
+  "name": "s3-batch",
+  "version": "1.0.0",
+  "description": "Batch to delete files from S3.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexandre-Georges/s3-batch"
+  },
+  "keywords": [
+    "S3"
+  ],
+  "author": "Alexandre Georges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandre-Georges/s3-batch/issues"
+  },
+  "homepage": "https://github.com/Alexandre-Georges/s3-batch",
+  "dependencies": {
+    "aws-sdk": "^2.4.14"
+  }
+}
